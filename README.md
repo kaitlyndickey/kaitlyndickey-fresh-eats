@@ -1,2 +1,2 @@
 # kaitlyndickey-fresh-eats
- Fresh Eats CODETALK project
+ CODETALK project for a delivery service
